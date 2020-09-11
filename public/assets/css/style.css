@@ -1,0 +1,11 @@
+li {
+  background: lightblue !important;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  background: aqua;
+}
